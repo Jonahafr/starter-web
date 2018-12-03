@@ -4,4 +4,8 @@ User-agent: *
 
 New robot data
 
+<<<<<<< HEAD
 2) Edited from Master
+=======
+1) This is edited from the branch develop
+>>>>>>> develop

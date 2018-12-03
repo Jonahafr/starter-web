@@ -11,6 +11,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+   
     Modified file on delelop branch
+
+I am adding data for Merge and conflicts

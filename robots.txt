@@ -3,3 +3,5 @@
 User-agent: *
 
 New robot data
+
+2) Edited from Master

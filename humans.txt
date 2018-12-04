@@ -26,3 +26,5 @@ This will introduce conflict 2
 
 Adding data on local repo
 
+Adding data on local repo
+

@@ -24,3 +24,5 @@ Now we are learning rebase
 This will introduce conflict
 This will introduce conflict 2
 
+Adding data on local repo
+
